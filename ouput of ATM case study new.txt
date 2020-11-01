@@ -1,0 +1,122 @@
+"C:\Program Files\Java\jdk-14.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\lib\idea_rt.jar=55782:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Adithya\IdeaProjects\ATM\out\production\ATM com.company.Main
+-------------------------------------------------------------------------------
+    welcome
+    press 1 if u are a customer
+    press 2 if u are admin
+1
+    enter your account number
+12345
+     enter your pin
+98760
+    press 1 to select withdraw
+    press 2 to select ministatement
+    press 3 to select balance enquiry
+     press 4 to deposit money
+1
+    enter the amount u want to withdraw
+12000
+*** money withdrawed successfully ***
+-------------------------------------------------------------------------------
+    welcome
+    press 1 if u are a customer
+    press 2 if u are admin
+1
+    enter your account number
+12345
+     enter your pin
+98760
+    press 1 to select withdraw
+    press 2 to select ministatement
+    press 3 to select balance enquiry
+     press 4 to deposit money
+4
+enter the amount you want to deposit
+20000
+**** you have deposited Rs20000successfully ****
+-------------------------------------------------------------------------------
+    welcome
+    press 1 if u are a customer
+    press 2 if u are admin
+1
+    enter your account number
+12346
+     enter your pin
+98759
+    press 1 to select withdraw
+    press 2 to select ministatement
+    press 3 to select balance enquiry
+     press 4 to deposit money
+1
+    enter the amount u want to withdraw
+20000
+*** money withdrawed successfully ***
+-------------------------------------------------------------------------------
+    welcome
+    press 1 if u are a customer
+    press 2 if u are admin
+1
+    enter your account number
+12345
+     enter your pin
+98760
+    press 1 to select withdraw
+    press 2 to select ministatement
+    press 3 to select balance enquiry
+     press 4 to deposit money
+2
+**** you had withdrawed1 no of times ****
+**** you had deposited money 1 times ****
+**** your final balance is 58000 ****
+-------------------------------------------------------------------------------
+    welcome
+    press 1 if u are a customer
+    press 2 if u are admin
+2
+enter your admin id
+19019
+enter your password
+99999
+press 1 to check atm balance
+press 2 to check no of transactions done today
+press 3 to reset all transactions
+press 4 to deposit in atm
+press 5 to stop ATM services temporarily
+1
+*** the ramaining balance in atm right now is 988000 ***
+-------------------------------------------------------------------------------
+    welcome
+    press 1 if u are a customer
+    press 2 if u are admin
+2
+enter your admin id
+19019
+enter your password
+99999
+press 1 to check atm balance
+press 2 to check no of transactions done today
+press 3 to reset all transactions
+press 4 to deposit in atm
+press 5 to stop ATM services temporarily
+2
+*** total no of deposits up to now are 1 ***
+*** total no of withdraws up to now are 2 ***
+-------------------------------------------------------------------------------
+    welcome
+    press 1 if u are a customer
+    press 2 if u are admin
+2
+enter your admin id
+19019
+enter your password
+99999
+press 1 to check atm balance
+press 2 to check no of transactions done today
+press 3 to reset all transactions
+press 4 to deposit in atm
+press 5 to stop ATM services temporarily
+3
+*** all transactions are resetted now ***
+-------------------------------------------------------------------------------
+    welcome
+    press 1 if u are a customer
+    press 2 if u are admin
